@@ -1,2 +1,2 @@
 # Python-MachineLearning-projects
-hello! I am LOKESH , these are my python projects in machine learning
+hello! I am LOKESH , these are my Analysis of datasets using python panadas 
